@@ -1,5 +1,9 @@
-# List.js Nav
-List.js Nav wraps [List.js](http://listjs.com) and provides functionality
+List.js Nav
+===========
+
+.. _List.js: http://listjs.com
+
+List.js Nav wraps List.js_ and provides functionality
 to convert simple HTML lists into feature-rich navigation menus.
 
 Some of the features include:
@@ -8,7 +12,9 @@ Some of the features include:
 * Keyboard shortcuts
 * Clean API to handle navigation-based events
 
-## Examples
+Examples
+--------
+::
 
     <div id="mylist">
         <input type="text" class="search"/>
