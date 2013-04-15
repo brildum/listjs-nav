@@ -13,10 +13,10 @@ Some of the features include:
 * Keyboard shortcuts
 * Clean API to handle navigation-based events
 
-.. NOTE::
+.. note::
 
     This library has 2 dependencies: jQuery_ and List.js_. The jQuery dependency could
-    be easily removed if necessary with some limited work, but for now jQuery is used.
+    be removed limited work, but for now jQuery is used.
 
 Examples
 --------
