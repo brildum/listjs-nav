@@ -2,6 +2,7 @@ List.js Nav
 ===========
 
 .. _List.js: http://listjs.com
+.. _jQuery: http://jquery.com
 
 List.js Nav wraps List.js_ and provides functionality
 to convert simple HTML lists into feature-rich navigation menus.
@@ -12,6 +13,11 @@ Some of the features include:
 * Keyboard shortcuts
 * Clean API to handle navigation-based events
 
+.. NOTE::
+
+    This library has 2 dependencies: jQuery_ and List.js_. The jQuery dependency could
+    be easily removed if necessary with some limited work, but for now jQuery is used.
+
 Examples
 --------
 ::
@@ -21,6 +27,7 @@ Examples
         <ul class="list"></ul>
     </div>
 
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="list.js"></script>
     <script type="text/javascript" src="list.nav.js"></script>
 
