@@ -16,7 +16,7 @@ Some of the features include:
 .. note::
 
     This library has 2 dependencies: jQuery_ and List.js_. The jQuery dependency could
-    be removed limited work, but for now jQuery is used.
+    be removed with limited work, but for now jQuery is used.
 
 Examples
 --------
